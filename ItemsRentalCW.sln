@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUI_ItemsRental", "GUI_ItemsRental\GUI_ItemsRental.csproj", "{AF37D38C-96D2-4EE2-83C8-520C9C0A5CFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBConnectionLibrary", "DBConnectLibrary\DBConnectionLibrary.csproj", "{3615F361-614E-4AC1-8F17-B56B80B8BF0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRModel", "VRModel\VRModel.csproj", "{EA592F48-C43A-4CFC-BA14-59ED0E22720D}"
+EndProject
+Global
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF37D38C-96D2-4EE2-83C8-520C9C0A5CFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF37D38C-96D2-4EE2-83C8-520C9C0A5CFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF37D38C-96D2-4EE2-83C8-520C9C0A5CFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF37D38C-96D2-4EE2-83C8-520C9C0A5CFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3615F361-614E-4AC1-8F17-B56B80B8BF0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3615F361-614E-4AC1-8F17-B56B80B8BF0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3615F361-614E-4AC1-8F17-B56B80B8BF0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3615F361-614E-4AC1-8F17-B56B80B8BF0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA592F48-C43A-4CFC-BA14-59ED0E22720D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA592F48-C43A-4CFC-BA14-59ED0E22720D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA592F48-C43A-4CFC-BA14-59ED0E22720D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA592F48-C43A-4CFC-BA14-59ED0E22720D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04F6077E-B0FE-4A24-B086-601D46526261}
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+EndGlobal

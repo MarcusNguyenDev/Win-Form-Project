@@ -1,0 +1,6 @@
+E:\Tafe\C#\ItemsRentalCW\DBConnectLibrary\bin\Debug\DBConnectLibrary.dll
+E:\Tafe\C#\ItemsRentalCW\DBConnectLibrary\bin\Debug\DBConnectLibrary.pdb
+E:\Tafe\C#\ItemsRentalCW\DBConnectLibrary\obj\Debug\DBConnectionLibrary.csproj.CoreCompileInputs.cache
+E:\Tafe\C#\ItemsRentalCW\DBConnectLibrary\obj\Debug\DBConnectLibrary.dll
+E:\Tafe\C#\ItemsRentalCW\DBConnectLibrary\obj\Debug\DBConnectLibrary.pdb
+E:\Tafe\C#\ItemsRentalCW\DBConnectLibrary\obj\Debug\DBConnectionLibrary.csprojAssemblyReference.cache
